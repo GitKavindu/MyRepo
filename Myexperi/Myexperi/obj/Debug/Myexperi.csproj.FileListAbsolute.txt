@@ -1,0 +1,71 @@
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe.config
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.pdb
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Properties.Resources.resources
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.GenerateResource.cache
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.exe
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.pdb
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form1.resources
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.SIGNUP.resources
+C:\Users\Public\Documents\bluetooth\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form3.resources
+G:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe.config
+G:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe
+G:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.pdb
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.AssemblyReference.cache
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.SuggestedBindingRedirects.cache
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form1.resources
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.SIGNUP.resources
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form3.resources
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Properties.Resources.resources
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.GenerateResource.cache
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.CoreCompileInputs.cache
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.exe
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.pdb
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form4.resources
+G:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form6.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.AssemblyReference.cache
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.SuggestedBindingRedirects.cache
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form1.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.SIGNUP.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form3.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form4.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form6.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Properties.Resources.resources
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.GenerateResource.cache
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.CoreCompileInputs.cache
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.exe
+F:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.pdb
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.AssemblyReference.cache
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.SuggestedBindingRedirects.cache
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.SIGNUP.resources
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Properties.Resources.resources
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.GenerateResource.cache
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.CoreCompileInputs.cache
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.exe
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.pdb
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Form6d.resources
+H:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe.config
+H:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.exe
+H:\Csharpdotnet\Myexperi\Myexperi\bin\Debug\Myexperi.pdb
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.SignIn.resources
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.Verify.resources
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.REGISTER.resources
+H:\Csharpdotnet\Myexperi\Myexperi\obj\Debug\Myexperi.PassengerLogin.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\bin\Debug\Myexperi.exe.config
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\bin\Debug\Myexperi.exe
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\bin\Debug\Myexperi.pdb
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.AssemblyReference.cache
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.SuggestedBindingRedirects.cache
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.SignIn.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.SIGNUP.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.Verify.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.REGISTER.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.Form6d.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.PassengerLogin.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.Properties.Resources.resources
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.GenerateResource.cache
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.csproj.CoreCompileInputs.cache
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.exe
+D:\kdu\c sharp\Myexperi\Myexperi\Myexperi\obj\Debug\Myexperi.pdb
